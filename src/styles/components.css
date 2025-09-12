@@ -1,0 +1,6 @@
+/* Component-specific styles */
+.button {
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
